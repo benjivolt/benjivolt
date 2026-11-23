@@ -12,6 +12,8 @@ A free calisthenics training platform. It has an exercise library, a skill-progr
 Watches a list of biotech companies for trial readouts, FDA decisions and deals, then estimates how each event reads through to the drug target, the indication and peer companies. Every claim in a report is tied to a quoted source, and an adaptive scheduler keeps model spend under a daily budget.
 `Python` `FastAPI` `SQLite` `OpenAI API` `Jinja` `pytest` `Docker`
 
+**Smaller projects:** [bgcalisthenics.com](https://github.com/bgcalisthenics/website) (React landing site), [SkillMax](https://github.com/bgcalisthenics/trying_flutter) (Flutter and Firebase prototype), [exercise pose dataset](https://github.com/bgcalisthenics/exercises) (labeled MediaPipe poses for rep counting)
+
 ### What I work with
 
 **Languages:** JavaScript, Python, HTML/CSS, Dart
