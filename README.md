@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ben%20Gershenovich&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Math%20%26%20Computer%20Science%20%40%20Boston%20University&descAlignY=58&descSize=20" width="100%" alt="Ben Gershenovich: Math and Computer Science at Boston University"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ben%20Gershenovich&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Math%20and%20Computer%20Science%20at%20Boston%20University&descAlignY=58&descSize=20" width="100%" alt="Ben Gershenovich: Math and Computer Science at Boston University"/>
 
 <a href="https://github.com/bgcalisthenics"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Full-stack+developer%3A+React%2C+Node%2C+FastAPI;Building+AI+tools+with+MediaPipe+and+LLM+APIs;Modeling+epidemics+and+hospital+networks;B.A.+Math+%26+CS+%40+Boston+University+%2730" alt="Full-stack developer, AI tools, epidemic and hospital-network modeling, B.A. Math and CS at Boston University"/></a>
 
