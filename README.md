@@ -12,7 +12,7 @@
 
 </div>
 
-## 👋 About me
+##  About me
 
 ```python
 class Ben:
@@ -27,7 +27,7 @@ class Ben:
 
 I build web apps and AI tools end to end, from the database and API to the interface people use. Most of my projects start from something I care about outside of code: calisthenics, biotech, and public health.
 
-## 🚀 Featured projects
+##  Featured projects
 
 <table>
 <tr>
